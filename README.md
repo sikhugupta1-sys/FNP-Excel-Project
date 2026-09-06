@@ -17,7 +17,7 @@ Average Delivery Time: 5.53 days
 
 The dashboard helps identify sales trends and supports data-driven decisions for marketing, inventory planning, and business growth.
 
-Finding and analysize
+Create an interactive dashboard and answer key business questions to help the company understand sales performance, identify customer trends, and improve its sales strategy and customer satisfaction.
 
 1. Total Revenue: Identify the overall revenue.
    
